@@ -20,3 +20,4 @@ with this cyber security topics you can level up your knowledge for more influnc
 17. NTLM vs Kerberos
 18. Kerberosting Attack
 19. [DNS exfilteration ( DNS Tunneling )](https://www.giac.org/paper/gcia/1116/detecting-dns-tunneling/108367)
+20. phishing attack using http referrer
