@@ -1,5 +1,5 @@
 # `Special cybersecurity topic`
-with this cyber security topics you can level up your knowledge for more influnce ( out of the box ) - include every you thinking, it can be developed at any time. it's helpful for cyber security operation center, penetration tester, Red Teaming, Blue Teaming. Is included fundamental? yes, because every descussion useful ( don't get ride of this topic ). The main source: [SOC investigation](https://www.socinvestigation.com/) - [Chris Greer](linkedin.com/in/cgreer) - [Meisameslahi](linkedin.com/in/meisameslahi) - [jeenali-kothari](linkedin.com/in/jeenali kothari)
+with this cyber security topics you can level up your knowledge for more influnce ( out of the box ) - include every you thinking, it can be developed at any time. it's helpful for cyber security operation center, penetration tester, Red Teaming, Blue Teaming. Is included fundamental? yes, because every descussion are useful ( don't get ride of these topics ). The main source: [SOC investigation](https://www.socinvestigation.com/) - [Chris Greer](linkedin.com/in/cgreer) - [Meisameslahi](linkedin.com/in/meisameslahi) - [jeenali-kothari](linkedin.com/in/jeenali kothari)
 > The Main topic ( just review topics and ask your self, Am I understood in deep dive )
 
 1. Kerberos and NTLM
