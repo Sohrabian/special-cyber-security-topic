@@ -50,5 +50,6 @@ with this cyber security topics you can level up your knowledge for more influnc
 ## `CIRT (Cyber Incident Response Team)`
 1. [Web Malware Removeall](https://www.socinvestigation.com/web-malware-removal-how-to-remove-malware-from-my-website/)
 2. [How to Remove Data Base Malware From your Website](https://www.socinvestigation.com/how-to-remove-database-malware-from-your-website/)
+3. [Massive IOT attack targeting unpatched Netgear devices](https://securitynews.sonicwall.com/xmlpost/massive-iot-attack-targeting-unpatched-netgear-devices/)
 
 
