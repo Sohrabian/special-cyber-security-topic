@@ -7,16 +7,18 @@ with this cyber security topics you can level up your knowledge for more influnc
       - [Ntlm](https://www.crowdstrike.com/cybersecurity-101/ntlm-windows-new-technology-lan-manager/)
       - [Client authentication modes - Basic, NTLM, Kerberos](https://knowledge.broadcom.com/external/article/172071/client-authentication-modes-basic-ntlm.html)
 3. LDAP 
-4. Wireless Attacks
-5. DNS Attack ( Amplification using DNSSEC ) 
-6. DDOS Attacks
+      - [What Is LDAP & How Does It Work?](https://www.okta.com/identity-101/what-is-ldap/)
+      - [SAML/Single_Sign_on](https://www.onelogin.com/learn/saml#:~:text=SAML%20is%20an%20acronym%20used,one%20set%20of%20login%20credentials.)
+5. Wireless Attacks
+6. DNS Attack ( Amplification using DNSSEC ) 
+7. DDOS Attacks
       - [DNS AMPLIFICATION ATTACK A REAL WORLD EXAMPLE](https://www.youtube.com/watch?v=Txr5Ur3QhyU)
       - [DNS Denial of Service Reflection Amplification Attack](https://www.youtube.com/watch?v=cMj85UuOEnY)
       - [DNS Denial of Service Reflection Attack](https://www.youtube.com/watch?v=zFDWPZ8-NHw&list=RDCMUCygAPH6oWFdZ_MPGASS4gwQ&start_radio=1&rv=zFDWPZ8-NHw&t=1)
       - [Open_DNS_Resolver](https://www.youtube.com/watch?v=ZO7LKYk33JU)
       - [DNS Denial of Service](https://www.youtube.com/watch?v=rHUOmOeVlMc)
-7. Prevent DDOS Attacks
-8. LLMNR and NetBIOS Attack
+8. Prevent DDOS Attacks
+9. LLMNR and NetBIOS Attack
       - [Netbios Attack](https://www.crowe.com/cybersecurity-watch/netbios-llmnr-giving-away-credentials)
       - [LLMNR Attack](https://www.cynet.com/attack-techniques-hands-on/llmnr-nbt-ns-poisoning-and-credential-access-using-responder/)
 10. Drive By Downlaod Attack ( special on RanSomware like Bad Rabbit ) 
