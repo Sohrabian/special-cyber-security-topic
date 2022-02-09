@@ -25,14 +25,15 @@ with this cyber security topics you can level up your knowledge for more influnc
 11. [DNSSEC](https://www.socinvestigation.com/dnssec-domain-name-system-security-extensions-explained/)
       - [why DNS/UDP is important in DNS_poisoning attack? in this attack take advantage of "DNS_caching"](https://www.keyfactor.com/blog/what-is-dns-poisoning-and-dns-spoofing/)
 12. IRC Botnet and his port
-13. Redundancy ( FaultTrollance vs HA ) 
-14. VM Escape Attack
-15. Container Attack
-16. WAF vs IPS
-17. State Full vs State Less firewall
-18. WPAD and PAD file 
-19. NTLM vs Kerberos
-20. Kerberosting Attack
+      - [Create Botnet using IRC](https://www.usenix.org/techsessionssummary/botnetsorg)
+14. Redundancy ( FaultTrollance vs HA ) 
+15. VM Escape Attack
+16. Container Attack
+17. WAF vs IPS
+18. State Full vs State Less firewall
+19. WPAD and PAD file 
+20. NTLM vs Kerberos
+21. Kerberosting Attack
       - [Kerberosting Attack](https://www.linkedin.com/posts/hackingarticles_kerberoasting-ugcPost-6896763440258514944-AEkx)
 22. [DNS exfilteration ( DNS Tunneling )](https://www.giac.org/paper/gcia/1116/detecting-dns-tunneling/108367)
 23. [phishing attack using http referrer](http://mixedbit.org/referer.html)
@@ -55,7 +56,8 @@ with this cyber security topics you can level up your knowledge for more influnc
 39. [Malware Obfuscation](https://www.socinvestigation.com/most-common-malware-obfuscation-techniques/)
 40. [file upload exploitation]()
 41. [Most Common Antivirus Evasion and Bypass Techniques](https://www.linkedin.com/posts/soc-investigation_most-common-antivirus-evasion-and-bypass-activity-6896320936363077632-t_15)
-
+42. MALWARE
+      - [Ransomware Drive By Downlaod Attack](https://www.kaspersky.com/resource-center/definitions/drive-by-download)           
 ## `SIEM`
 1. [Build Open Source SIEM HA Using Wazuh + Docker](https://www.linkedin.com/posts/hassan-sohrabian-942687192_build-open-source-siem-ha-using-wazuh-docker-activity-6894349267796930561-pjGx)
 2. [SIEM Monitoring Using WAZUH with simulate Attack](https://www.linkedin.com/posts/hakin9-magazine_siem-monitoring-using-wazuh-by-francis-jeremiah-activity-6893934991907131392-Sr6l)
