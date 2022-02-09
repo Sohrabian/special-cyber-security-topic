@@ -7,10 +7,15 @@ with this cyber security topics you can level up your knowledge for more influnc
 3. Wireless Attacks
 4. DNS Attack ( Amplification using DNSSEC ) 
 5. DDOS Attacks
-6. Prevent DDOS Attacks
-7. LLMNR and NetBIOS Attack
-8. Drive By Downlaod Attack ( special on RanSomware like Bad Rabbit ) 
-9. [DNSSEC](https://www.socinvestigation.com/dnssec-domain-name-system-security-extensions-explained/)
+      - [DNS AMPLIFICATION ATTACK A REAL WORLD EXAMPLE](https://www.youtube.com/watch?v=Txr5Ur3QhyU)
+      - [DNS Denial of Service Reflection Amplification Attack](https://www.youtube.com/watch?v=cMj85UuOEnY)
+      - [DNS Denial of Service Reflection Attack](https://www.youtube.com/watch?v=zFDWPZ8-NHw&list=RDCMUCygAPH6oWFdZ_MPGASS4gwQ&start_radio=1&rv=zFDWPZ8-NHw&t=1)
+      - [Open_DNS_Resolver](https://www.youtube.com/watch?v=ZO7LKYk33JU)
+      - [DNS Denial of Service](https://www.youtube.com/watch?v=rHUOmOeVlMc)
+7. Prevent DDOS Attacks
+8. LLMNR and NetBIOS Attack
+9. Drive By Downlaod Attack ( special on RanSomware like Bad Rabbit ) 
+10. [DNSSEC](https://www.socinvestigation.com/dnssec-domain-name-system-security-extensions-explained/)
       - [why DNS/UDP is important in DNS_poisoning attack? in this attack take advantage of "DNS_caching"](https://www.keyfactor.com/blog/what-is-dns-poisoning-and-dns-spoofing/)
 11. IRC Botnet and his port
 12. Redundancy ( FaultTrollance vs HA ) 
