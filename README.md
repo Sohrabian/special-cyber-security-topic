@@ -11,7 +11,7 @@ with this cyber security topics you can level up your knowledge for more influnc
 7. LLMNR and NetBIOS Attack
 8. Drive By Downlaod Attack ( special on RanSomware like Bad Rabbit ) 
 9. [DNSSEC](https://www.socinvestigation.com/dnssec-domain-name-system-security-extensions-explained/)
-  - [why DNS/UDP is important in DNS_poisoning attack? in this attack take advantage of "DNS_caching"](https://www.keyfactor.com/blog/what-is-dns-poisoning-and-dns-spoofing/)
+      - [why DNS/UDP is important in DNS_poisoning attack? in this attack take advantage of "DNS_caching"](https://www.keyfactor.com/blog/what-is-dns-poisoning-and-dns-spoofing/)
 11. IRC Botnet and his port
 12. Redundancy ( FaultTrollance vs HA ) 
 13. VM Escape Attack
@@ -38,9 +38,10 @@ with this cyber security topics you can level up your knowledge for more influnc
 34. [Firewall Implementation](https://www.linkedin.com/posts/shreya-madan_fortigate-ugcPost-6894219718333386752-YyJK)
 35. [SMURF Attack](https://www.cloudflare.com/learning/ddos/smurf-ddos-attack/)
 36. [SSL vs TLS](https://gbhackers.com/suprising-differences-tls-ssl-protocol/)
-37. [Malware Obfuscation](https://www.socinvestigation.com/most-common-malware-obfuscation-techniques/)
-38. [file upload exploitation]()
-39. [Most Common Antivirus Evasion and Bypass Techniques](https://www.linkedin.com/posts/soc-investigation_most-common-antivirus-evasion-and-bypass-activity-6896320936363077632-t_15)
+     - [SSL/TLS diagrame](https://www.linkedin.com/posts/the-cyber-security-hub_activity-6896560848236875776-MIXs)
+38. [Malware Obfuscation](https://www.socinvestigation.com/most-common-malware-obfuscation-techniques/)
+39. [file upload exploitation]()
+40. [Most Common Antivirus Evasion and Bypass Techniques](https://www.linkedin.com/posts/soc-investigation_most-common-antivirus-evasion-and-bypass-activity-6896320936363077632-t_15)
 
 ## `SIEM`
 1. [Build Open Source SIEM HA Using Wazuh + Docker](https://www.linkedin.com/posts/hassan-sohrabian-942687192_build-open-source-siem-ha-using-wazuh-docker-activity-6894349267796930561-pjGx)
