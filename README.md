@@ -35,6 +35,7 @@ with this cyber security topics you can level up your knowledge for more influnc
 20. NTLM vs Kerberos
 21. Kerberosting Attack
       - [Kerberosting Attack](https://www.linkedin.com/posts/hackingarticles_kerberoasting-ugcPost-6896763440258514944-AEkx)
+      - [Attacking Kerberos](https://www.linkedin.com/posts/jeenali-kothari_attacking-kerberos-kiscking-the-guard-of-ugcPost-6897480969700425730-szus)
 22. [DNS exfilteration ( DNS Tunneling )](https://www.giac.org/paper/gcia/1116/detecting-dns-tunneling/108367)
 23. [phishing attack using http referrer](http://mixedbit.org/referer.html)
 24. [RPC(Remote Procedure Call)](https://www.stigviewer.com/stig/windows_10/2017-12-01/finding/V-63737)
@@ -57,7 +58,9 @@ with this cyber security topics you can level up your knowledge for more influnc
 40. [file upload exploitation]()
 41. [Most Common Antivirus Evasion and Bypass Techniques](https://www.linkedin.com/posts/soc-investigation_most-common-antivirus-evasion-and-bypass-activity-6896320936363077632-t_15)
 42. MALWARE
-      - [Ransomware Drive By Downlaod Attack](https://www.kaspersky.com/resource-center/definitions/drive-by-download)           
+      - [Ransomware Drive By Downlaod Attack](https://www.kaspersky.com/resource-center/definitions/drive-by-download)
+43. SQL-Injection (serverside/modern attack)
+      - [SQL Injection to Different Attack Vectors (LLMNR Poisoning, NTLM Relay, RCE)](https://bariskoparmal.com/2022/02/09/sql-injection-to-different-attack-vectors/)         
 ## `SIEM`
 1. [Build Open Source SIEM HA Using Wazuh + Docker](https://www.linkedin.com/posts/hassan-sohrabian-942687192_build-open-source-siem-ha-using-wazuh-docker-activity-6894349267796930561-pjGx)
 2. [SIEM Monitoring Using WAZUH with simulate Attack](https://www.linkedin.com/posts/hakin9-magazine_siem-monitoring-using-wazuh-by-francis-jeremiah-activity-6893934991907131392-Sr6l)
@@ -67,5 +70,6 @@ with this cyber security topics you can level up your knowledge for more influnc
 1. [Web Malware Removeall](https://www.socinvestigation.com/web-malware-removal-how-to-remove-malware-from-my-website/)
 2. [How to Remove Data Base Malware From your Website](https://www.socinvestigation.com/how-to-remove-database-malware-from-your-website/)
 3. [Massive IOT attack targeting unpatched Netgear devices](https://securitynews.sonicwall.com/xmlpost/massive-iot-attack-targeting-unpatched-netgear-devices/)
+4. [cybersecurity incident response the 6 steps](https://www.techrepublic.com/article/cybersecurity-incident-response-the-6-steps-to-success/)
 
 
