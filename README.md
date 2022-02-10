@@ -72,4 +72,8 @@ with this cyber security topics you can level up your knowledge for more influnc
 3. [Massive IOT attack targeting unpatched Netgear devices](https://securitynews.sonicwall.com/xmlpost/massive-iot-attack-targeting-unpatched-netgear-devices/)
 4. [cybersecurity incident response the 6 steps](https://www.techrepublic.com/article/cybersecurity-incident-response-the-6-steps-to-success/)
 
+##  `Threat Hunting`
+1. [Threat Hunting using Powershell](https://www.socinvestigation.com/threat-hunting-using-powershell-and-fileless-malware-attacks/)
+2. [Threat Hunting WorkShop](https://www.linkedin.com/posts/t4h4_cyber-threat-hunting-workshop-itu-ugcPost-6897169527495606272-MppP)
+
 
