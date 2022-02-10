@@ -67,6 +67,7 @@ with this cyber security topics you can level up your knowledge for more influnc
 1. [Build Open Source SIEM HA Using Wazuh + Docker](https://www.linkedin.com/posts/hassan-sohrabian-942687192_build-open-source-siem-ha-using-wazuh-docker-activity-6894349267796930561-pjGx)
 2. [SIEM Monitoring Using WAZUH with simulate Attack](https://www.linkedin.com/posts/hakin9-magazine_siem-monitoring-using-wazuh-by-francis-jeremiah-activity-6893934991907131392-Sr6l)
 3. [ZTA](https://www.linkedin.com/posts/geet-madan_zero-trust-architectures-ztapdf-ugcPost-6896051349365354496-fISL)
+4. [Syhunt 2022 Ransomware Threat Report](https://www.syhunt.com/en/?n=Articles.RansomwareThreat2022)
 
 ## `CIRT (Cyber Incident Response Team)`
 1. [Web Malware Removeall](https://www.socinvestigation.com/web-malware-removal-how-to-remove-malware-from-my-website/)
