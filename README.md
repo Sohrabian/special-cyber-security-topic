@@ -69,6 +69,8 @@ with this cyber security topics you can level up your knowledge for more influnc
 3. [ZTA](https://www.linkedin.com/posts/geet-madan_zero-trust-architectures-ztapdf-ugcPost-6896051349365354496-fISL)
 4. [Syhunt 2022 Ransomware Threat Report](https://www.syhunt.com/en/?n=Articles.RansomwareThreat2022)
 5. [encrypted traffic analysis](https://www.linkedin.com/posts/amn-gostaran-e-roozbeh_%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%AA%D8%B1%D8%A7%D9%81%DB%8C%DA%A9-%D8%B1%D9%85%D8%B2-%D8%B4%D8%AF%D9%87-ugcPost-6897291667628531712-l0oN)
+6. EDR (Endpoint detection and response (EDR) solutions)
+      -[Top 5 EDR Capabilities: Behavioral Protection, Whitelisting, Antimalware and more by Gilad David Maayan](https://hakin9.org/top-5-edr-capabilities-behavioral-protection-whitelisting/)
 
 ## `CIRT (Cyber Incident Response Team)`
 1. [Web Malware Removeall](https://www.socinvestigation.com/web-malware-removal-how-to-remove-malware-from-my-website/)
