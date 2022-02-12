@@ -62,7 +62,8 @@ with this cyber security topics you can level up your knowledge for more influnc
 43. SQL-Injection (serverside/modern attack)
       - [SQL Injection to Different Attack Vectors (LLMNR Poisoning, NTLM Relay, RCE)](https://bariskoparmal.com/2022/02/09/sql-injection-to-different-attack-vectors/)
 44. Active Directory
-      - [Active Directory Botnet](https://www.linkedin.com/posts/geet-madan_the-active-directory-botnetpdf-ugcPost-6897480384003870720-c_fQ)         
+      - [Active Directory Botnet](https://www.linkedin.com/posts/geet-madan_the-active-directory-botnetpdf-ugcPost-6897480384003870720-c_fQ)  
+      - [AD CS: from ManageCA to RCE](https://www.blackarrow.net/ad-cs-from-manageca-to-rce/)       
 ## `SIEM`
 1. [Build Open Source SIEM HA Using Wazuh + Docker](https://www.linkedin.com/posts/hassan-sohrabian-942687192_build-open-source-siem-ha-using-wazuh-docker-activity-6894349267796930561-pjGx)
 2. [SIEM Monitoring Using WAZUH with simulate Attack](https://www.linkedin.com/posts/hakin9-magazine_siem-monitoring-using-wazuh-by-francis-jeremiah-activity-6893934991907131392-Sr6l)
