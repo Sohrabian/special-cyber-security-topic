@@ -6,6 +6,7 @@ with this cyber security topics you can level up your knowledge for more influnc
       - [Kerberos](https://cybrot.com/kerberos/)
       - [Ntlm](https://www.crowdstrike.com/cybersecurity-101/ntlm-windows-new-technology-lan-manager/)
       - [Client authentication modes - Basic, NTLM, Kerberos](https://knowledge.broadcom.com/external/article/172071/client-authentication-modes-basic-ntlm.html)
+      - [Detecting Pass-The-Hash with Windows Event Viewer](https://www.cyberark.com/resources/threat-research-blog/detecting-pass-the-hash-with-windows-event-viewer)
 3. LDAP 
       - [What Is LDAP & How Does It Work?](https://www.okta.com/identity-101/what-is-ldap/)
       - [SAML/Single_Sign_on](https://www.onelogin.com/learn/saml#:~:text=SAML%20is%20an%20acronym%20used,one%20set%20of%20login%20credentials.)
