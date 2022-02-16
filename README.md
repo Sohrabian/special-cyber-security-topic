@@ -59,6 +59,9 @@ with this cyber security topics you can level up your knowledge for more influnc
 41. [Most Common Antivirus Evasion and Bypass Techniques](https://www.linkedin.com/posts/soc-investigation_most-common-antivirus-evasion-and-bypass-activity-6896320936363077632-t_15)
 42. MALWARE
       - [Ransomware Drive By Downlaod Attack](https://www.kaspersky.com/resource-center/definitions/drive-by-download)
+      - [RaaS or ransomware as a service](https://www.upguard.com/blog/what-is-ransomware-as-a-service)
+      - [Ransomware Attacks Vs. Data Breaches](https://www.upguard.com/blog/ransomware-attacks-vs-data-breaches)
+      - [NetWalker Ransomware](https://www.upguard.com/blog/what-is-netwalker-ransomware)
 43. SQL-Injection (serverside/modern attack)
       - [SQL Injection to Different Attack Vectors (LLMNR Poisoning, NTLM Relay, RCE)](https://bariskoparmal.com/2022/02/09/sql-injection-to-different-attack-vectors/)
 44. Active Directory
