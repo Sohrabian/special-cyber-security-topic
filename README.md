@@ -62,6 +62,8 @@ with this cyber security topics you can level up your knowledge for more influnc
       - [RaaS or ransomware as a service](https://www.upguard.com/blog/what-is-ransomware-as-a-service)
       - [Ransomware Attacks Vs. Data Breaches](https://www.upguard.com/blog/ransomware-attacks-vs-data-breaches)
       - [NetWalker Ransomware](https://www.upguard.com/blog/what-is-netwalker-ransomware)
+      - [IOC for BlackByte](https://cybersecuritynews.com/blackbyte-ransomware-breached-us-critical-infrastructure/)
+      - Ransomware and RDP port number
 43. SQL-Injection (serverside/modern attack)
       - [SQL Injection to Different Attack Vectors (LLMNR Poisoning, NTLM Relay, RCE)](https://bariskoparmal.com/2022/02/09/sql-injection-to-different-attack-vectors/)
 44. Active Directory
