@@ -65,6 +65,7 @@ with this cyber security topics you can level up your knowledge for more influnc
       - [NetWalker Ransomware](https://www.upguard.com/blog/what-is-netwalker-ransomware)
       - [IOC for BlackByte](https://cybersecuritynews.com/blackbyte-ransomware-breached-us-critical-infrastructure/)
       - Ransomware and RDP port number
+      - [QBot Attacks](https://socprime.com/blog/qbot-malware-detection-old-dog-new-tricks/)
 43. SQL-Injection (serverside/modern attack)
       - [SQL Injection to Different Attack Vectors (LLMNR Poisoning, NTLM Relay, RCE)](https://bariskoparmal.com/2022/02/09/sql-injection-to-different-attack-vectors/)
 44. Active Directory
