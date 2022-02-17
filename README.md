@@ -74,6 +74,8 @@ with this cyber security topics you can level up your knowledge for more influnc
 45. [How to verify the integrity of a Linux distribution iso image](https://linuxconfig.org/how-to-verify-the-integrity-of-a-linux-distribution-iso-image):
       - You Will Learn : difference between gpg encrypting and signing,Downlaod and import a gpg key from a key server, verify a gpg signature, verify the checksum of a ISO
       - [difference between signing and encrypting with gpg ? ](https://linuxconfig.org/how-to-verify-the-integrity-of-a-linux-distribution-iso-image)
+46. Proxy Server
+      - [How Does it work ?](https://www.fortinet.com/resources/cyberglossary/proxy-server)
 ## `SIEM`
 1. [Build Open Source SIEM HA Using Wazuh + Docker](https://www.linkedin.com/posts/hassan-sohrabian-942687192_build-open-source-siem-ha-using-wazuh-docker-activity-6894349267796930561-pjGx)
 2. [SIEM Monitoring Using WAZUH with simulate Attack](https://www.linkedin.com/posts/hakin9-magazine_siem-monitoring-using-wazuh-by-francis-jeremiah-activity-6893934991907131392-Sr6l)
