@@ -95,5 +95,6 @@ with this cyber security topics you can level up your knowledge for more influnc
 ##  `Threat Hunting`
 1. [Threat Hunting using Powershell](https://www.socinvestigation.com/threat-hunting-using-powershell-and-fileless-malware-attacks/)
 2. [Threat Hunting WorkShop](https://www.linkedin.com/posts/t4h4_cyber-threat-hunting-workshop-itu-ugcPost-6897169527495606272-MppP)
+3. [Traceroute in Detail](https://youtu.be/Gj_UOxy8cFc)
 
 
