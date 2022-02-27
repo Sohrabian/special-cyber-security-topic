@@ -96,5 +96,10 @@ with this cyber security topics you can level up your knowledge for more influnc
 1. [Threat Hunting using Powershell](https://www.socinvestigation.com/threat-hunting-using-powershell-and-fileless-malware-attacks/)
 2. [Threat Hunting WorkShop](https://www.linkedin.com/posts/t4h4_cyber-threat-hunting-workshop-itu-ugcPost-6897169527495606272-MppP)
 3. [Traceroute in Detail beside WIRESHARK](https://youtu.be/Gj_UOxy8cFc)
+4. [PHP.unit/eval-stdin.php]
+      - [bypass php function](https://kailashbohara.com.np/blog/2022/02/04/bypassing-PHP-functions-to-read-system-file/)
+      - [CVE-2017-9841](https://blog.ovhcloud.com/cve-2017-9841-what-is-it-and-how-do-we-protect-our-customers/)
+      - [phpunit-a-security-risk](https://thephp.cc/articles/phpunit-a-security-risk)
+
 
 
