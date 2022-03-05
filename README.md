@@ -103,6 +103,7 @@ with this cyber security topics you can level up your knowledge for more influnc
       - [bypass php function](https://kailashbohara.com.np/blog/2022/02/04/bypassing-PHP-functions-to-read-system-file/)
       - [CVE-2017-9841](https://blog.ovhcloud.com/cve-2017-9841-what-is-it-and-how-do-we-protect-our-customers/)
       - [phpunit-a-security-risk](https://thephp.cc/articles/phpunit-a-security-risk)
+5. [Hunting The Use Of Psexec For Lateral Movement](https://www.linkedin.com/posts/ali-atashgar-99aba41b9_hunting-the-use-of-psexec-for-lateral-movement-activity-6905563905599320064-fBl0)
 ## `penetration testing topic`
 1. [7 Steps of Cyber Kill Chain](https://www.logsign.com/blog/7-steps-of-cyber-kill-chain/)
 2. [What Is the Cyber Kill Chain and How It Can Protect Against Attacks](https://www.computer.org/publications/tech-news/trends/what-is-the-cyber-kill-chain-and-how-it-can-protect-against-attacks)
