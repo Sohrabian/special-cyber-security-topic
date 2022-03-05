@@ -100,6 +100,10 @@ with this cyber security topics you can level up your knowledge for more influnc
       - [bypass php function](https://kailashbohara.com.np/blog/2022/02/04/bypassing-PHP-functions-to-read-system-file/)
       - [CVE-2017-9841](https://blog.ovhcloud.com/cve-2017-9841-what-is-it-and-how-do-we-protect-our-customers/)
       - [phpunit-a-security-risk](https://thephp.cc/articles/phpunit-a-security-risk)
-
+# `penetration testing topic`
+1-[7 Steps of Cyber Kill Chain](https://www.logsign.com/blog/7-steps-of-cyber-kill-chain/)
+2-[What Is the Cyber Kill Chain and How It Can Protect Against Attacks](https://www.computer.org/publications/tech-news/trends/what-is-the-cyber-kill-chain-and-how-it-can-protect-against-attacks)
+3-[Evading IDS, Firewalls, and Honeypots](https://www.linkedin.com/learning/ethical-hacking-evading-ids-firewalls-and-honeypots/finding-weaknesses-in-the-perimeter?autoplay=true&courseClaim=AQGO8ON17NQobwAAAX9a1Kq3ERviLNtUgfqTlAeXe9vkSxr0XnMdw_9p5otXR-EVYfk1stQIYzhnWUHJxdJR7KfX_IfqGe-yXM3VKevKKMSVFyanbaR2jeyg9MC2BbWc6E3-nJaAzvnYH2EbD84AwJbhyEwtwuLc16foZrwmh5XJWSqgsANvuSnz2OzABP2XqHoMA5sCM1q7z8_GymW4URL1RjqAG4J01Dreuo7YeU_KCCyoOrQvc9Cwa-3JLaIK21jRT1nlS9YZy2Xt3Hzi3IdtchlDGScVfiEdeQUHF1F0wICPfxDrPH3t9HUdv-xYYqGQbNbs0npBJEe_Fpgx9NOEU4CK_U6BpvhNt9Zv7SVR5bNKapd85CbxD8kLUHUIztsCB7IwPVo9-5acBNEpfGYTM9AJ5ylV4TuYabl9XHs1mFTBOMYyZ1prdDEfj-0__SZ3RQJaglGMW4mnydkRE9wtA8s3DqBouaekI9XVs_AmFzu2TiZngJhRyvA8P4GlhU7PFP_h-n40ZBqEe0nWy3WfvhOBMoQHmMxw65U8AcPFjW4vPfz9PDKnk_9jXzglGk6S1_MbYY9yJ-KjaKMoHXcjNoNb4G0iU2e0j52Im95CEXvSxhHgH2pCLDbrXzWKtD0iQo6WjzfDsU2hy0Pyd4JqhmThfUrQeDdg5kq6SdVYVRBWINuJUa8BQBr3Ezru0Fov)
+4-[What Are CRLF Injection Attacks](https://www.acunetix.com/websitesecurity/crlf-injection/)
 
 
