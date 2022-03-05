@@ -111,5 +111,8 @@ with this cyber security topics you can level up your knowledge for more influnc
 6. [what is http header injection](https://www.acunetix.com/blog/web-security-zone/http-header-injection/)
 7. [Attacking Read-Only Domain Controllers (RODCs) to Own Active Directory](https://adsecurity.org/?p=3592)
       - [Install and Configure a Read-Only Domain Controller (RODC) on Windows Server 2019/2022](http://woshub.com/deploying-read-domain-controller-windows-server-2016/)
+8. [Host Header Injection](https://medium.com/@rupachandransangothi22/host-header-injection-leads-to-pre-account-takeover-worth-100-1bd8f2d51876)
+9. [Honeypot Deployment](https://medium.com/@rupachandransangothi22/host-header-injection-leads-to-pre-account-takeover-worth-100-1bd8f2d51876)
+10. []()
 
 
