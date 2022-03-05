@@ -78,6 +78,7 @@ with this cyber security topics you can level up your knowledge for more influnc
 46. Proxy Server
       - [How Does it work ?](https://www.fortinet.com/resources/cyberglossary/proxy-server)
       - [Reverse Proxy .vs Forward Proxy use case](https://www.jscape.com/blog/bid/87783/forward-proxy-vs-reverse-proxy)
+47. [Ever heared about Initial Access Brokers hackers and Network Access Listings ?](https://www.linkedin.com/posts/julienprovenzano_initial-access-brokers-activity-6905703120886751232-tsvA)
 ## `SIEM`
 1. [SIEM How To Work](https://www.linkedin.com/posts/bahman-akbarnejad-445539165_siem-how-to-work-ugcPost-6905807379943022592-Exk4)
 1. [Build Open Source SIEM HA Using Wazuh + Docker](https://www.linkedin.com/posts/hassan-sohrabian-942687192_build-open-source-siem-ha-using-wazuh-docker-activity-6894349267796930561-pjGx)
@@ -113,6 +114,6 @@ with this cyber security topics you can level up your knowledge for more influnc
       - [Install and Configure a Read-Only Domain Controller (RODC) on Windows Server 2019/2022](http://woshub.com/deploying-read-domain-controller-windows-server-2016/)
 8. [Host Header Injection](https://medium.com/@rupachandransangothi22/host-header-injection-leads-to-pre-account-takeover-worth-100-1bd8f2d51876)
 9. [Honeypot Deployment](https://medium.com/@rupachandransangothi22/host-header-injection-leads-to-pre-account-takeover-worth-100-1bd8f2d51876)
-10. []()
+10. [XSS](https://www.linkedin.com/posts/activity-6905803012489531392-tg0y)
 
 
