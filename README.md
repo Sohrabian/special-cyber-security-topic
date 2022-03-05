@@ -115,5 +115,7 @@ with this cyber security topics you can level up your knowledge for more influnc
 8. [Host Header Injection](https://medium.com/@rupachandransangothi22/host-header-injection-leads-to-pre-account-takeover-worth-100-1bd8f2d51876)
 9. [Honeypot Deployment](https://medium.com/@rupachandransangothi22/host-header-injection-leads-to-pre-account-takeover-worth-100-1bd8f2d51876)
 10. [XSS](https://www.linkedin.com/posts/activity-6905803012489531392-tg0y)
+11. [NTLM Theaf](https://www.linkedin.com/posts/kavish-t-844239125_ntlm-theftpdf-activity-6905802147540414464-GPZr)
+12. [Domain Persistence](https://www.linkedin.com/posts/aarti--singh_domain-persistencegolden-certificate-attackpdf-activity-6905798849693380609-lbuN)
 
 
