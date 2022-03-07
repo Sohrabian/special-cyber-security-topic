@@ -14,6 +14,7 @@ with this cyber security topics you can level up your knowledge for more influnc
 5. Wireless Attacks
 6. DNS Attack ( Amplification using DNSSEC ) 
 7. DDOS Attacks
+      - [full concept](https://cybernews.com/resources/what-is-a-dns-attack/)
       - [DNS AMPLIFICATION ATTACK A REAL WORLD EXAMPLE](https://www.youtube.com/watch?v=Txr5Ur3QhyU)
       - [DNS Denial of Service Reflection Amplification Attack](https://www.youtube.com/watch?v=cMj85UuOEnY)
       - [DNS Denial of Service Reflection Attack](https://www.youtube.com/watch?v=zFDWPZ8-NHw&list=RDCMUCygAPH6oWFdZ_MPGASS4gwQ&start_radio=1&rv=zFDWPZ8-NHw&t=1)
